@@ -1,0 +1,36 @@
+[[libmeddly_c]]
+arch = "aarch64"
+git-tree-sha1 = "5103a4e6e3e2b9e484d6784babf3341f5504a0dc"
+os = "macos"
+
+    [[libmeddly_c.download]]
+    sha256 = "5d7578dc744e3a10e7e3a8ce5414a9e08502c6e2e602dc83cc2b9f5e551990ca"
+    url = "https://github.com/JuliaReliab/libmeddly_c_jll.jl/releases/download/libmeddly_c-v0.5.0+0/libmeddly_c.v0.5.0.aarch64-apple-darwin.tar.gz"
+[[libmeddly_c]]
+arch = "aarch64"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "21b6b288980fbe8cf556f42dd91886b7e70432e8"
+libc = "glibc"
+os = "linux"
+
+    [[libmeddly_c.download]]
+    sha256 = "e720179597290730e5f60aa6702fccc104ca0d37e2101a72f7d51bc5e5fa3077"
+    url = "https://github.com/JuliaReliab/libmeddly_c_jll.jl/releases/download/libmeddly_c-v0.5.0+0/libmeddly_c.v0.5.0.aarch64-linux-gnu-cxx11.tar.gz"
+[[libmeddly_c]]
+arch = "x86_64"
+git-tree-sha1 = "48ea02294d529fefdf3cba27d4299425be8de126"
+os = "macos"
+
+    [[libmeddly_c.download]]
+    sha256 = "9658e794a6dcc089e19a3113888426af68d8dda372fea34d6e0285e463cd8bc2"
+    url = "https://github.com/JuliaReliab/libmeddly_c_jll.jl/releases/download/libmeddly_c-v0.5.0+0/libmeddly_c.v0.5.0.x86_64-apple-darwin.tar.gz"
+[[libmeddly_c]]
+arch = "x86_64"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "fd0af5b2521741b1727d31f7a40ed85154696825"
+libc = "glibc"
+os = "linux"
+
+    [[libmeddly_c.download]]
+    sha256 = "1a114689925327eeb75372840c27d137e39a781ebda18288681bafcfa60ebe98"
+    url = "https://github.com/JuliaReliab/libmeddly_c_jll.jl/releases/download/libmeddly_c-v0.5.0+0/libmeddly_c.v0.5.0.x86_64-linux-gnu-cxx11.tar.gz"
